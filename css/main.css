@@ -1,0 +1,38 @@
+div
+{
+	width:150px;
+	height:150px;
+	
+}
+.caja1
+{
+	background-color: red;
+}
+.caja2
+{
+	background-color: blue;
+}
+.caja3
+{
+	background-color: green;
+}
+.caja4
+{
+	background-color: orange;
+}
+#absolute
+{
+	position:absolute;
+	right:40px;
+}
+#relative
+{
+	position: relative;
+	left: 400px;
+	margin: 50px;
+}
+body
+{
+	margin: center;
+
+}
